@@ -1,4 +1,4 @@
-## topic_model_semantic_type
+## A semantic type-based topic modeling pipeline
 Codes for our proposed semantic type-based topic modeling pipeline and clinical validation.  
 
 **1. The proposed topic modeling pipeline:**   
